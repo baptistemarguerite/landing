@@ -1,0 +1,26 @@
+	@import url("component/banner.css");
+	@import url("component/button.css");
+	@import url("component/cards.css");
+	@import url("component/container.css");
+
+
+@font-face {
+ font-family: "Formula1B";
+ src: url("../fonts/Formula1-Bold.otf") format("opentype");
+}
+
+
+@font-face {
+ font-family: "Formula1R";
+ src: url("../fonts/Formula1-Regular.otf") format("opentype");
+}
+
+
+@font-face {
+ font-family: "Formula1W";
+ src: url("../fonts/Formula1-Wide.otf") format("opentype");
+}
+
+body{
+	margin: 0px;
+}

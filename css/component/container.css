@@ -1,0 +1,18 @@
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+#cards_container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-items: space-between;
+	gap: 20px;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
